@@ -9,6 +9,12 @@ Create a platform where users can:
 1. Enter text prompts to generate images using AI
 2. View a gallery of previously generated images
 3. Store image metadata and URLs in a database
+---
+<div>
+  <img width="1870" height="923" alt="image" src="https://github.com/user-attachments/assets/a6c79674-22d5-4e44-8b03-c5fcfc838cbf" />
+</div>
+
+---
 
 ## 🏗️ Architecture
 
