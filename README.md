@@ -148,6 +148,10 @@ Response: [
 | Storage  | Cloudinary (images), MongoDB (metadata) |
 | DevOps   | Git, GitHub                             |
 
+## Main flow end to end
+<img width="1079" height="342" alt="image" src="https://github.com/user-attachments/assets/0487b1b5-3a08-4f54-b0ec-9c403fe48114" />
+
+
 ## ⚠️ Notes
 
 - CORS is configured to allow `localhost:5173` and `localhost:5174`
